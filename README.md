@@ -21,3 +21,5 @@ Shell for software development
   - [ ] windows
   - [ ] auto update 
 - [ ] scripts
+- [ ] site
+  - [ ] scripts sharing
