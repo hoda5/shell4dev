@@ -20,3 +20,4 @@ Shell for software development
   - [ ] iOS
   - [ ] windows
   - [ ] auto update 
+- [ ] scripts
